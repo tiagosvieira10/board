@@ -1,4 +1,4 @@
-# 🧩 Board de Tarefas em Java
+# Board de Tarefas em Java
 
 Um sistema simples de **Board de Tarefas** (estilo Kanban) desenvolvido em **Java puro**, ideal para fins de aprendizado e experimentação com conceitos de orientação a objetos, organização de tarefas e boas práticas de codificação.
 
